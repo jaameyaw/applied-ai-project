@@ -1,0 +1,5 @@
+pytest
+anthropic
+scikit-learn
+numpy
+python-dotenv
